@@ -1,0 +1,1 @@
+main(n,a)char**a;{if(n==3)return printf("%s %s\n",a[1],a[2]),2;}
